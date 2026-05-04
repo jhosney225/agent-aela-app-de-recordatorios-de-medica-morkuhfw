@@ -1,0 +1,6 @@
+{
+  "name": "agent-aela-app-de-recordatorios-de-medica-morkuhfw",
+  "version": "1.0.0",
+  "description": "Proyecto de Aela [Gen11]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
